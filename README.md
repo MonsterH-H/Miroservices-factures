@@ -121,4 +121,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## ✉️ Contact
 
-Pour toute question, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com)
+Pour toute question, veuillez contacter handytsoka89@gmail.com 
